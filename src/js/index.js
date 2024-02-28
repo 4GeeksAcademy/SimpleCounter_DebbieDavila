@@ -1,5 +1,5 @@
 //import react into the bundle
-import React from "react";
+import React, { useEffect, useState } from "react";
 import ReactDOM from "react-dom";
 import Home from "./component/home";
 
